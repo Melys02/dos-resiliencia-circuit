@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "20220635-b9fc-49a9-a2e8-f2e49b9daf63",
+		"name": "CircuitBreaker",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34822028"
+	},
+	"item": [
+		{
+			"name": "Material",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
